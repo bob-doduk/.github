@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+![black_logo_crop](https://github.com/bob-doduk/.github/assets/101304089/b74d90d0-6e38-4171-9e05-dfb6030ae788)
